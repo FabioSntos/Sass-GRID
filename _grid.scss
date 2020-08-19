@@ -71,7 +71,7 @@ $s-device: 480px;
 // gera os offsets
 
 @for $i from 1 through $cols {
-  .off-set-#{$i} {
+  .offset-#{$i} {
     margin-left: grid($i, offset);
     @extend %offset;
   }

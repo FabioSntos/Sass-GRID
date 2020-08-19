@@ -1,2 +1,2 @@
 # Sass-GRID
- grid reutilizável feito em sass
+grid totalmente flexível feito em scss com funções, mixins condicionais, feito com SASS
